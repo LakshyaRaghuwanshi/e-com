@@ -126,13 +126,6 @@ This project was successfully deployed on **AWS Elastic Beanstalk** with **Postg
 
 ---
 
-## 📅 Submission Compliance
-- ✅ All project files included
-- ✅ Setup instructions provided
-- ✅ AWS deployment details mentioned
-
----
-
 ## 📢 Notes
 - For demonstration purposes, **JWT secret keys** and sensitive info should be managed using environment variables (follow best practices in production).
 
