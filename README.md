@@ -117,7 +117,3 @@ This project was successfully deployed on **AWS Elastic Beanstalk** with **Postg
   [GitHub](https://github.com/LakshyaRaghuwanshi)
 
 ---
-
-## 📢 Notes
-- For demonstration purposes, **JWT secret keys** and sensitive info should be managed using environment variables (follow best practices in production).
-
