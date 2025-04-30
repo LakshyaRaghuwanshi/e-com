@@ -112,14 +112,6 @@ This project was successfully deployed on **AWS Elastic Beanstalk** with **Postg
 
 ---
 
-## 📸 Screenshots (Optional - Recommended)
-- Product listing
-- Signup/Login
-- Add to Cart
-- Order Placement
-
----
-
 ## 📄 Author
 - **Lakshya Raghuwanshi**  
   [GitHub](https://github.com/LakshyaRaghuwanshi)
